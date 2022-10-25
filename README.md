@@ -4,7 +4,8 @@ RxDataSources, RxSwift, RxCocoa, RxAlamofire, Kingfisher, RealmSwift
 
 Screenshots:
 
-![Simulator Screen Shot - iPhone 11 - 2022-10-25 at 13 33 43](https://user-images.githubusercontent.com/81308003/197752540-c88a024d-d5ad-4c42-9415-1725a40fc4dd.png)
-![Simulator Screen Shot - iPhone 11 - 2022-10-25 at 13 34 24](https://user-images.githubusercontent.com/81308003/197752545-f5426d68-346b-4825-982d-778c7428370b.png)
+![Simulator Screen Shot - iPhone 11 - 2022-10-25 at 13 33 43-min](https://user-images.githubusercontent.com/81308003/197752753-0c086a45-9462-4c62-b0bb-fd47568657f6.png)
+![Simulator Screen Shot - iPhone 11 - 2022-10-25 at 13 34 24-min](https://user-images.githubusercontent.com/81308003/197752771-ecc8d3aa-3167-42aa-be8d-357f323d393b.png)
+
 
  
